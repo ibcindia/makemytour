@@ -1,0 +1,125 @@
+[
+  {
+    "id": "kerala-backwaters",
+    "title": "Kerala: Backwaters & Beyond",
+    "destination": "Kerala, India",
+    "type": "India",
+    "duration": "6 Days / 5 Nights",
+    "price": 28999,
+    "departure": "Mumbai",
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=1000",
+    "description": "A relaxed introduction to Kerala’s waterways, green landscapes and coastal charm.",
+    "route": "Kochi · Munnar · Alleppey",
+    "itinerary": [
+      "Arrive in Kochi and explore the historic quarter.",
+      "Drive to Munnar through scenic hill country.",
+      "Discover tea gardens and viewpoints.",
+      "Travel to Alleppey for a backwater experience.",
+      "Enjoy a relaxed day at leisure.",
+      "Departure from Kochi."
+    ]
+  },
+  {
+    "id": "rajasthan-colours",
+    "title": "Colours of Rajasthan",
+    "destination": "Rajasthan, India",
+    "type": "India",
+    "duration": "7 Days / 6 Nights",
+    "price": 34999,
+    "departure": "Delhi",
+    "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?w=1000",
+    "description": "Forts, old-city lanes, desert landscapes and the layered stories of Rajasthan.",
+    "route": "Jaipur · Jodhpur · Jaisalmer",
+    "itinerary": [
+      "Arrive in Jaipur and explore the Pink City.",
+      "Visit the city’s historic landmarks.",
+      "Travel to Jodhpur and explore the old town.",
+      "Continue towards Jaisalmer.",
+      "Discover the fort and heritage lanes.",
+      "Desert experience and leisure time.",
+      "Departure."
+    ]
+  },
+  {
+    "id": "swiss-scenic",
+    "title": "Swiss Scenic Escape",
+    "destination": "Switzerland",
+    "type": "International",
+    "duration": "8 Days / 7 Nights",
+    "price": 189999,
+    "departure": "Mumbai",
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1000",
+    "description": "Mountain railways, lakeside towns and Alpine panoramas in a classic European escape.",
+    "route": "Zurich · Lucerne · Interlaken",
+    "itinerary": [
+      "Arrive in Zurich.",
+      "Explore Lucerne and its lakeside setting.",
+      "Enjoy a scenic mountain excursion.",
+      "Travel to Interlaken.",
+      "Explore the Jungfrau region subject to conditions.",
+      "Leisure day for optional experiences.",
+      "Return to Zurich.",
+      "Departure."
+    ]
+  },
+  {
+    "id": "bali-two",
+    "title": "Bali for Two",
+    "destination": "Bali, Indonesia",
+    "type": "Honeymoon",
+    "duration": "6 Days / 5 Nights",
+    "price": 79999,
+    "departure": "Mumbai",
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=1000",
+    "description": "A sample island escape combining cultural sights, tropical scenery and time to unwind.",
+    "route": "Ubud · Seminyak",
+    "itinerary": [
+      "Arrive in Bali and transfer to Ubud.",
+      "Explore Ubud’s cultural and natural highlights.",
+      "A day to enjoy at your own pace.",
+      "Transfer to Seminyak via scenic stops.",
+      "Leisure and beach time.",
+      "Departure."
+    ]
+  },
+  {
+    "id": "ladakh-high-roads",
+    "title": "Ladakh: Roads to the Sky",
+    "destination": "Ladakh, India",
+    "type": "Adventure",
+    "duration": "7 Days / 6 Nights",
+    "price": 42999,
+    "departure": "Delhi",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1000",
+    "description": "High-altitude landscapes and dramatic mountain roads. Acclimatisation and local conditions matter.",
+    "route": "Leh · Nubra Valley · Pangong",
+    "itinerary": [
+      "Arrive in Leh and rest for acclimatisation.",
+      "A gentle local exploration, subject to health and conditions.",
+      "Travel to Nubra Valley.",
+      "Explore the valley at a measured pace.",
+      "Journey towards Pangong region, subject to road conditions.",
+      "Return towards Leh.",
+      "Departure."
+    ]
+  },
+  {
+    "id": "thailand-group",
+    "title": "Thailand Highlights",
+    "destination": "Thailand",
+    "type": "Group",
+    "duration": "5 Days / 4 Nights",
+    "price": 59999,
+    "departure": "Mumbai",
+    "image": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=1000",
+    "description": "A sample group holiday idea with city energy, cultural discovery and tropical downtime.",
+    "route": "Bangkok · Pattaya",
+    "itinerary": [
+      "Arrive in Bangkok.",
+      "Explore selected city highlights.",
+      "Transfer to Pattaya.",
+      "Leisure and optional activities.",
+      "Departure."
+    ]
+  }
+]
